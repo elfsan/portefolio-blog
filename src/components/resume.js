@@ -8,7 +8,7 @@ class Resume extends Component {
             <div className="container w-75">
                 <div className="row mb-md-5 mt-5">
                     <div className="col-md-3 pe-5 pt-5">
-                        <img src={profile} alt="Sanaa El Fakiri" className="img-fluid rounded-circle"/>
+                        <img src={profile} alt="Sanaa El Fakiri" className="img-fluid rounded-circle card"/>
                     </div>
                     <div className="col-md-9 mb-5 pt-5">
                         <h1>Sanaa El Fakiri</h1>
